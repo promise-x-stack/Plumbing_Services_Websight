@@ -8,4 +8,4 @@ document.querySelector<HTMLTitleElement>('#appTittle')!.innerText = `${tittle}`
 
 //setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
 const NameTwo:string = "promise"
-NavBar(NameTwo)
+NavBar({user:NameTwo})
