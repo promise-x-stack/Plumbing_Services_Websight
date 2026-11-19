@@ -52,3 +52,7 @@
   --transition-base: 280ms var(--ease-out);
   --transition-slow: 500ms var(--ease-out);
 }
+
+*{
+  font-family: "Poppins", ui-sans-serif, system-ui, sans-serif;
+}
